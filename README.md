@@ -6,6 +6,8 @@
 
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,angular,cs,c,java,mysql,sqlserver,typescript" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,angular,dotnet" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,c,java,mysql,sqlserver,typescript" />
+
   </a>
 </p>
